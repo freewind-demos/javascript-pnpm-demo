@@ -1,6 +1,12 @@
 dependencies:
   lodash: 4.17.10
+  lodash3: /lodash/3.10.1
 packages:
+  /lodash/3.10.1:
+    dev: false
+    resolution:
+      integrity: sha1-W/Rejkm6QYnhfUgnid/RW9FAt7Y=
+      tarball: 'http://registry.npmjs.org/lodash/-/lodash-3.10.1.tgz'
   /lodash/4.17.10:
     dev: false
     resolution:
@@ -10,3 +16,4 @@ shrinkwrapMinorVersion: 9
 shrinkwrapVersion: 3
 specifiers:
   lodash: ^4.17.10
+  lodash3: 'npm:lodash@^3.10.1'
