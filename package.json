@@ -1,9 +1,9 @@
 {
-    "scripts": {
-        "start": "node hello.js"
-    },
-    "dependencies": {
-        "lodash": "^4.17.10",
-        "lodash3": "npm:lodash@^3.10.1"
-    }
+  "scripts": {
+    "start": "node hello.js"
+  },
+  "dependencies": {
+    "lodash": "4.17.10",
+    "lodash3": "3.10.1"
+  }
 }
